@@ -393,15 +393,11 @@ a {
   .about__card {
     display: flex;
     flex-direction: column;
-    margin-right: 300px;
   }
   .about__text {
     display: flex;
     flex-direction: row;
     gap: 30px;
-  }
-  .about__cart {
-    text-align: left;
   }
 }
 .constructor {
