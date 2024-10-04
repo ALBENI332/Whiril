@@ -854,20 +854,16 @@ a {
   .footer__content {
     display: flex;
     flex-direction: column;
-    row-gap: 500px;
-    text-align: left;
+    row-gap: 50px;
   }
   .footer__list {
     display: flex;
     flex-direction: column;
-    margin-left: 300px;
-    text-align: left;
   }
 }
 @media (max-width: 535px) {
   .footer__final {
     display: flex;
     flex-direction: column;
-    text-align: left;
   }
 }/*# sourceMappingURL=index.css.map */
